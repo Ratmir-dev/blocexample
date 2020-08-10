@@ -1,6 +1,6 @@
 # blocexample
 
-A new Flutter application.
+Пример работы с паттерном BloC. Получает от АПИ json и парсит его в список пользователей
 
 ## Getting Started
 
